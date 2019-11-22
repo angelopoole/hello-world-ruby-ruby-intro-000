@@ -1,1 +1,1 @@
-outputstring "Hello World"
+puts "Hello World"
